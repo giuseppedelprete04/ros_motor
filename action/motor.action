@@ -1,0 +1,11 @@
+
+int32 init_pos
+int32 des_pos
+int32 max_speed
+int32 time
+---
+
+float32 final_pos
+---
+
+float32 curr_pos
